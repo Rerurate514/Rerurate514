@@ -1,6 +1,43 @@
 <h1 align="center">Rerurate_514と申します。</h1>
 <h3 align="center">誰かバイトで雇ってくだしあ</h3>
-<h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
+<h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</
+h6>
+
+<form class="js-pinned-items-reorder-form" id="user-71661237-pinned-items-reorder-form" data-turbo="false" action="/users/Rerurate514/reorder_pinned_items" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" autocomplete="off"><input type="hidden" name="authenticity_token" value="PCkvD5CF2SoxjNc-o_kfE0DUl5CSgsXM7HmaD40fZ-B7gQeJivhcAzr3XkRKOltdKy8ockbrg9ra0xSuTcYbaw" autocomplete="off">
+        <ol class="d-flex flex-wrap list-style-none gutter-condensed mb-2 js-pinned-items-reorder-list">
+      <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
+  <div class="Box d-flex pinned-item-list-item p-3 width-full js-pinned-item-list-item public sortable-button-item source">
+    <div class="pinned-item-list-item-content">
+      <div class="d-flex width-full position-relative">
+        <div class="flex-1">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo mr-1 color-fg-muted">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+          <a class="mr-1 text-bold wb-break-word" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:71661237,&quot;target&quot;:&quot;PINNED_REPO&quot;,&quot;user_id&quot;:71661237,&quot;originating_url&quot;:&quot;https://github.com/Rerurate514&quot;}}" data-hydro-click-hmac="a64c18c3e7ebacbfd8daa8ce1c3fd4fa065ee52422dc7f481c84f18e5e5e33e4" href="/Rerurate514/musicalizationWithFlutter">
+<span class="repo" title="musicalizationWithFlutter">musicalizationWithFlutter</span></a>
+          <span></span><span class="Label Label--secondary v-align-middle mt-1 no-wrap v-align-baseline Label--inline">Public</span>
+        </div>
+      </div>
+
+
+      <p class="pinned-item-desc color-fg-muted text-small mt-2 mb-0">
+        
+      </p>
+
+      <p class="mb-0 mt-2 f6 color-fg-muted">
+          <span class="d-inline-block mr-3">
+  <span class="repo-language-color" style="background-color: #00B4AB"></span>
+  <span itemprop="programmingLanguage">Dart</span>
+</span>
+
+      </p>
+    </div>
+  </div>
+</li>
+
+</ol>
+
+</form>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
 
