@@ -1,4 +1,4 @@
-<h1 align="center">どうも。Rerurate_514っていうよ</h1>
+<h1 align="center">Rerurate_514と申します。</h1>
 <h3 align="center">誰かバイトで雇ってくだしあ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
