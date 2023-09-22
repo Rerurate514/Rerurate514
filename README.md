@@ -1,4 +1,4 @@
-<h1 align="center">どうも。どうの Rerurate_514</h1>
+<h1 align="center">どうも。 Rerurate_514と申します。</h1>
 <h3 align="center">誰かバイトで雇ってくだしあ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
@@ -7,7 +7,7 @@
 
 <h3 align="left">りんく</h3>
 <p align="left">
-<a href="https://twitter.com/@rerurate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rerurate" height="30" width="40" /></a>
+<a href="https://twitter.com/rerurate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rerurate" height="30" width="40" /></a>
 <a href="https://discord.gg/rerurate_514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rerurate_514" height="30" width="40" /></a>
 </p>
 
