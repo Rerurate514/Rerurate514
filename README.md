@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rerurate514&show_icons=true&locale=en" alt="rerurate514" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rerurate514&" alt="rerurate514" /></p>
+
+<p>作成日時 : 2023/09/22</p>
+<p>編集日時 : 2023/09/22</p>
