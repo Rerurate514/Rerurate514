@@ -1,5 +1,5 @@
-<h1 align="center">Rerurate_514と申します。</h1>
-<h3 align="center">誰かバイトで雇ってくだしあ</h3>
+<h1 align="center">woring : Flutter App</h1>
+<h4 align="center">誰かバイトで雇ってくだしあ</h4>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</
 h6>
 
