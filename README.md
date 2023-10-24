@@ -1,5 +1,5 @@
 <h1 align="center">woring : Flutter App</h1>
-<h4 align="center">誰かバイトで雇ってくだしあ</h4>
+<h4 align="center">最近、激務らて、なのでGLSもいけなｋてすいません</h4>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</
 h6>
 
@@ -31,4 +31,4 @@ h6>
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2023/09/22</p>
+<p>編集日時 : 2023/10/24</p>
