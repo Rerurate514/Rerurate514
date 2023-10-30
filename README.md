@@ -21,11 +21,11 @@ h6>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rerurate514&theme=onedark&show_icons=true&locale=en&layout=compact" alt="rerurate514" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rerurate514&theme=onedark&show_icons=true&locale=en&layout=compact" alt="rerurate514"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rerurate514&theme=onedark&show_icons=true&locale=en" alt="rerurate514" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rerurate514&theme=onedark&show_icons=true&locale=en" alt="rerurate514" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rerurate514&theme=onedark" alt="rerurate514" /></p>
 
 
 
