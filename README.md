@@ -7,7 +7,7 @@ h6>
 
 <p align="left"> <a href="https://twitter.com/rerurate" target="blank"><img src="https://img.shields.io/twitter/follow/rerurate?logo=twitter&style=for-the-badge" alt="rerurate" /></a> </p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">じつはついったもやってる</h3>
 <p align="left"><a href="https://twitter.com/rerurate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rerurate" height="30" width="40" /></a>
