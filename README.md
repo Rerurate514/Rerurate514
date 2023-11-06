@@ -1,4 +1,4 @@
-<h1 align="center">woring : Flutter App</h1>
+<h1 align="center">working : Flutter App</h1>
 <h4 align="center">最近、激務らて、なのでGLSもいけなｋてすいません</h4>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</
 h6>
