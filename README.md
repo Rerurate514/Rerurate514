@@ -1,7 +1,6 @@
 <h1 align="center">working : Flutter App AND GLS</h1>
 <h6 align="center">バイトで雇って</h4>
-<h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</
-h6>
+<h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
 
@@ -31,4 +30,4 @@ h6>
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2023/11/13</p>
+<p>編集日時 : 2023/11/27</p>
