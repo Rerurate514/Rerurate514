@@ -1,5 +1,5 @@
 <h1 align="center">working : Flutter App AND GLS</h1>
-<h6 align="center">バイトで雇って</h4>
+<h6 align="center">インターン行かしてください;;</h4>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
