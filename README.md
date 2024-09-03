@@ -1,4 +1,4 @@
-<h1 align="center">working : Flutter App AND Release(YET)</h1>
+<h1 align="center">working : Flutter App AND Release</h1>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
@@ -26,4 +26,4 @@ MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> まだ未完
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2024/07/28</p>
+<p>編集日時 : 2024/09/03</p>
