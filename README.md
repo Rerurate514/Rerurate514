@@ -1,5 +1,6 @@
 <h1 align="center">working : Flutter Release And Develop Rust OS</h1>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
+最近の悩みなんだけど、他人のプライベートリポジトリへのコントリビューションで草が生えないのが悲しい
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
 
