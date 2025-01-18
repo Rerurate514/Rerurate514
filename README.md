@@ -1,4 +1,4 @@
-<h1 align="center">working : Flutter Release And Develop Rust OS</h1>
+<h1 align="center">working : Flutter Release And Develop JS framework</h1>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 最近の悩みなんだけど、他人のプライベートリポジトリへのコントリビューションで草が生えないのが悲しい
 
