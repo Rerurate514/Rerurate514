@@ -24,6 +24,7 @@ MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rerurate514&theme=onedark&show_icons=true&locale=en" alt="rerurate514" />
 </p>
 
+![](https://raw.githubusercontent.com/Rerurate514/Rerurate514/output/github-contribution-grid-snake.svg)
 
 <br>
 <p>作成日時 : 2023/09/22</p>
