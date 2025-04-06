@@ -1,4 +1,4 @@
-<h1 align="center">working : Flutter Release And Develop JS framework And Dart package</h1>
+<h1 align="center">working : Flutter Release And Develop TS framework And Dart package</h1>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 最近の悩みなんだけど、他人のプライベートリポジトリへのコントリビューションで草が生えないのが悲しい
 
@@ -28,4 +28,4 @@ MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/03/30</p>
+<p>編集日時 : 2025/04/07</p>
