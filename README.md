@@ -10,7 +10,13 @@
 
 <h3 align="left">じつはついったもやってる</h3>
 <p align="left"><a href="https://twitter.com/rerurate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rerurate" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/profiles/76561199067862301" target="blank"><img align="center" src="https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" alt="Rerurate" height="30" width="40" /></a><a href="https://discord.gg/rerurate_514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rerurate_514" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/profiles/76561199067862301" target="blank"><img align="center" src="https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" alt="Rerurate" height="30" width="40" /></a><a href="https://discord.gg/rerurate_514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rerurate_514" height="30" width="40" /></a><a href="https://qiita.com/Rerurate514" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: #55C500; font-weight: bold; padding: 8px 12px; border-radius: 4px; border: 1px solid #e8e8e8;">
+  <svg width="24" height="24" viewBox="0 0 74 74" xmlns="http://www.w3.org/2000/svg" style="margin-right: 8px;">
+    <path fill="#55C500" d="M37,0 C16.56,0 0,16.56 0,37 C0,57.44 16.56,74 37,74 C57.44,74 74,57.44 74,37 C74,16.56 57.44,0 37,0 Z M54.51,49.63 C50.86,55.63 37,62.05 37,62.05 L19.49,49.63 C14.43,46.16 14.43,27.84 19.49,24.37 C25.37,20.43 37,11.95 37,11.95 L54.51,24.37 C59.57,27.84 59.57,46.16 54.51,49.63 Z"/>
+    <path fill="#FFFFFF" d="M37,23.32 C31.59,23.32 27.2,27.71 27.2,33.12 L27.2,39.35 C27.2,44.76 31.59,49.15 37,49.15 C42.41,49.15 46.8,44.76 46.8,39.35 L46.8,33.12 C46.8,27.71 42.41,23.32 37,23.32 Z M37,44.45 C34.18,44.45 31.9,42.17 31.9,39.35 L31.9,33.12 C31.9,30.3 34.18,28.02 37,28.02 C39.82,28.02 42.1,30.3 42.1,33.12 L42.1,39.35 C42.1,42.17 39.82,44.45 37,44.45 Z"/>
+  </svg>
+  Rerurate514のQiita
+</a>
 </p>
 
 MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成 </a>
@@ -28,4 +34,4 @@ MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/04/07</p>
+<p>編集日時 : 2025/04/18</p>
