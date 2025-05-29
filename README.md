@@ -1,6 +1,7 @@
 <h1 align="center">working : Flutter Release And Develop TS framework And Dart package</h1>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 最近の悩みなんだけど、他人のプライベートリポジトリへのコントリビューションで草が生えないのが悲しい
+あとはサークルの後輩のFlutterアプリを手伝ってたりする。
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
 
@@ -33,4 +34,4 @@ MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/05/05</p>
+<p>編集日時 : 2025/05/29</p>
