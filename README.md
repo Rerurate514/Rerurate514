@@ -1,4 +1,4 @@
-<h1 align="center">working : Flutter Release And Develop TS framework And Dart package</h1>
+<h1 align="center">working : Flutter Release And Develop TS framework And Obsidian Plugin</h1>
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 最近の悩みなんだけど、他人のプライベートリポジトリへのコントリビューションで草が生えないのが悲しい。
 
@@ -37,4 +37,4 @@ MY DOMAIN : <a href="https://rerurate.com"> rerurate.com </a> == まだ作成し
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/05/29</p>
+<p>編集日時 : 2025/06/08</p>
