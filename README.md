@@ -24,7 +24,7 @@
 <h3>TODO LIST</h3>
 
 - [ ] 後輩のアプリ作成
-- [x] Obsidianのプラグイン作成(insert_AKURL_to_banners)
+- [x] Obsidianのプラグイン作成(insert_AKURL_to_banners) -> PR: <a href="https://github.com/obsidianmd/obsidian-releases/pull/6697">実際のreleaseリポジトリ</a>
 - [ ] HomePageを<a href="https://rerurate514.github.io/portfolirate/">現行サイト</a>から<a href="https://rerurate.com"> rerurate.com </a>に移植、その過程でNext化
 - [ ] DartPackageのevent_driverの作成
 - [未] ~~ReluxidianOSの作成~~
@@ -46,4 +46,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/06/11</p>
+<p>編集日時 : 2025/06/15</p>
