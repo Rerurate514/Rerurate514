@@ -26,7 +26,8 @@
 - [ ] 後輩のアプリ作成
 - [x] Obsidianのプラグイン作成(insert_AKURL_to_banners) -> PR: <a href="https://github.com/obsidianmd/obsidian-releases/pull/6697">実際のreleaseリポジトリ</a>
 - [ ] HomePageを<a href="https://rerurate514.github.io/portfolirate/">現行サイト</a>から<a href="https://rerurate.com"> rerurate.com </a>に移植、その過程でNext化
-- [ ] DartPackageのevent_driverの作成
+- [ ] DartPackageの<a href="https://github.com/Rerurate514/event_driver">event_driver</a>の作成
+- [ ] <a href="https://github.com/Rerurate514/fTutteS-Transitus">transitus</a>にmiddleware機能を追加
 - [未] ~~ReluxidianOSの作成~~
 
 ---
@@ -46,4 +47,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/06/15</p>
+<p>編集日時 : 2025/06/23</p>
