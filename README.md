@@ -28,6 +28,7 @@
 - [ ] HomePageを<a href="https://rerurate514.github.io/portfolirate/">現行サイト</a>から<a href="https://rerurate.com"> rerurate.com </a>に移植、その過程でNext化
 - [x] DartPackageの<a href="https://github.com/Rerurate514/event_driver">event_driver</a>の作成
 - [x] <a href="https://github.com/Rerurate514/fTutteS-Transitus">transitus</a>にmiddleware機能を追加
+- [x] <a href="https://github.com/Rerurate514/fTutteS">fTutteSのTiperes</a>にFlutter_RiverpodのようなNotifierクラスを作成する
 - [未] ~~ReluxidianOSの作成~~
 
 ---
@@ -47,4 +48,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/06/25</p>
+<p>編集日時 : 2025/07/07</p>
