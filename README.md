@@ -29,6 +29,7 @@
 - [x] DartPackageの<a href="https://github.com/Rerurate514/event_driver">event_driver</a>の作成
 - [x] <a href="https://github.com/Rerurate514/fTutteS-Transitus">transitus</a>にmiddleware機能を追加
 - [x] <a href="https://github.com/Rerurate514/fTutteS">fTutteSのTiperes</a>にFlutter_RiverpodのようなNotifierクラスを作成する
+- [ ] r6sのapiのdart版をつくる
 - [未] ~~ReluxidianOSの作成~~
 
 ---
@@ -48,4 +49,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/07/16</p>
+<p>編集日時 : 2025/07/26</p>
