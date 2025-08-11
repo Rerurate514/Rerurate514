@@ -1,4 +1,5 @@
 <h1 align="center">working : Flutter Release And Develop TS framework And Obsidian Plugin</h1>
+インターンとか長期ハッカソンで草が歯抜けになってる箇所が多い：：
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 最近の悩みなんだけど、他人のプライベートリポジトリへのコントリビューションで草が生えないのが悲しい。
 
@@ -49,4 +50,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/07/26</p>
+<p>編集日時 : 2025/08/11</p>
