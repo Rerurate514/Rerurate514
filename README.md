@@ -31,6 +31,7 @@
 - [x] <a href="https://github.com/Rerurate514/fTutteS-Transitus">transitus</a>にmiddleware機能を追加
 - [x] <a href="https://github.com/Rerurate514/fTutteS">fTutteSのTiperes</a>にFlutter_RiverpodのようなNotifierクラスを作成する
 - [ ] r6sのapiのdart版をつくる
+- [ ] clean_arch_genを作る
 - [未] ~~ReluxidianOSの作成~~
 
 ---
