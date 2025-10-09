@@ -3,6 +3,8 @@
 <h6 align="right">Kotlinのコードは大体高校生の時のやつだからめっちゃ汚い</h6>
 最近の悩みなんだけど、他人のプライベートリポジトリへのコントリビューションで草が生えないのが悲しい。
 
+<h1>最近はgithubにあげちゃいけない研究(産学連携)のせいで草が生えない</h1>
+
 あとはサークルの後輩のFlutterアプリを手伝ってたりする。
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
@@ -51,4 +53,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/09/19</p>
+<p>編集日時 : 2025/10/09</p>
