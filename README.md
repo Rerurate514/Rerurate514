@@ -5,8 +5,6 @@
 
 <h1>最近はgithubにあげちゃいけない研究(産学連携)のせいで草が生えない</h1>
 
-あとはサークルの後輩のFlutterアプリを手伝ってたりする。
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rerurate514&label=Profile%20views&color=0e75b6&style=flat" alt="rerurate514" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rerurate" target="blank"><img src="https://img.shields.io/twitter/follow/rerurate?logo=twitter&style=for-the-badge" alt="rerurate" /></a> </p>
@@ -53,4 +51,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/10/09</p>
+<p>編集日時 : 2025/11/06</p>
