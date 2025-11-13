@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/rerurate" target="blank"><img src="https://img.shields.io/twitter/follow/rerurate?logo=twitter&style=for-the-badge" alt="rerurate" /></a> </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Rerurate514&rank=-?)
+![Devscore](https://github-stats-eta-two.vercel.app/api/stats/Rerurate514)
 
 <h3 align="left">じつはついったもやってる</h3>
 <p align="left"><a href="https://twitter.com/rerurate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rerurate" height="30" width="40" /></a>
@@ -51,4 +52,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/11/06</p>
+<p>編集日時 : 2025/11/13</p>
