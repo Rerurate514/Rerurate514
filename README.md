@@ -23,19 +23,6 @@
 </a>
 </p>
 <a href="https://rerurate.com"> rerurate.com - HomePage(ぶろぐ) </a>
-
-<h3>TODO LIST</h3>
-
-- [ ] 後輩のアプリ作成
-- [x] Obsidianのプラグイン作成(insert_AKURL_to_banners) -> PR: <a href="https://github.com/obsidianmd/obsidian-releases/pull/6697">実際のreleaseリポジトリ</a> <p>2025/07/11：リリースされました！実際に使用することができます！</p>
-- [x] HomePageを<a href="https://rerurate514.github.io/portfolirate/">現行サイト</a>から<a href="https://rerurate.com"> rerurate.com </a>に移植、その過程でNext化
-- [x] DartPackageの<a href="https://github.com/Rerurate514/event_driver">event_driver</a>の作成
-- [x] <a href="https://github.com/Rerurate514/fTutteS-Transitus">transitus</a>にmiddleware機能を追加
-- [x] <a href="https://github.com/Rerurate514/fTutteS">fTutteSのTiperes</a>にFlutter_RiverpodのようなNotifierクラスを作成する
-- [未] ~~r6sのapiのdart版をつくる~~
-- [x] clean_arch_genを作る
-- [未] ~~ReluxidianOSの作成~~
-
 ---
 
 - MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成 </a>
@@ -53,4 +40,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2025/12/16</p>
+<p>編集日時 : 2026/01/11</p>
