@@ -23,6 +23,7 @@
 </a>
 </p>
 <a href="https://rerurate.com"> rerurate.com - HomePage(ぶろぐ) </a>
+
 ---
 
 - MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成 </a>
@@ -40,4 +41,4 @@
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2026/01/11</p>
+<p>編集日時 : 2026/01/15</p>
