@@ -14,7 +14,7 @@
 
 
 ### My Profiles
-Discord ID: rerurate_514
+Discord ID: rerurate_514 <br/>
 <a href="https://rerurate.com"> rerurate.com - HomePage(ぶろぐ) </a> <br/>
 <a href="https://qiita.com/Rerurate514"> Qiita </a> <br/>
 <a href="https://zenn.dev/rerurate"> Zenn </a> <br/>
