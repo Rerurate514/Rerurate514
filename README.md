@@ -29,13 +29,8 @@ Discord ID: rerurate_514 <br/>
 - MY WEBSITE : <a href="https://rerurate514.github.io/portfolirate/"> ほぼ完成 </a>
 - MY DOMAIN : <a href="https://rerurate.com"> rerurate.com </a> == 完成した！！！自分の今までobsidianで貯めたノートブログ
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rerurate514&theme=onedark&show_icons=true&locale=en&layout=compact" alt="rerurate514"/> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rerurate514&theme=onedark&show_icons=true&locale=en" alt="rerurate514" />
-</p>
-
 ![](https://raw.githubusercontent.com/Rerurate514/Rerurate514/output/github-contribution-grid-snake.svg)
 
 <br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2026/01/27</p>
+<p>編集日時 : 2026/05/28</p>
