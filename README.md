@@ -31,6 +31,5 @@ Discord ID: rerurate_514 <br/>
 
 ![](https://raw.githubusercontent.com/Rerurate514/Rerurate514/output/github-contribution-grid-snake.svg)
 
-<br>
 <p>作成日時 : 2023/09/22</p>
-<p>編集日時 : 2026/05/28</p>
+<p>編集日時 : 2026/05/29</p>
